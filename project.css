@@ -58,7 +58,7 @@ a {
 
 #header{
 
-  background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(images/slider.avif);
+  background: linear-gradient(rgba(40,0,0,0.8),rgba(0,0,0,0.5)),url(images/slider.avif);
 
   background-position: center center;
   background-repeat: no-repeat;
@@ -74,7 +74,7 @@ align-items: center;
 
 text-align: center;
 color: white;
-
+padding: 5% 0.5rem;
 }
 
 .text{
